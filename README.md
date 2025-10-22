@@ -1,4 +1,4 @@
-# Portfolio Website - Vanilla HTML, CSS, and JavaScript
+# Portfolio Website - HTML, CSS, and JavaScript
 
 This is a complete recreation of the React portfolio website using only **HTML**, **CSS**, and **JavaScript**. It includes all the same features, animations, and functionality as the original React version.
 
@@ -177,3 +177,4 @@ This is a personal portfolio project. Feel free to use it as a template for your
 ---
 
 **Note**: This is a vanilla HTML/CSS/JavaScript recreation of a React portfolio. It demonstrates that modern, interactive websites can be built without frameworks while maintaining excellent performance and user experience.
+
