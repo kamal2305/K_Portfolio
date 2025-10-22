@@ -169,7 +169,6 @@ This is a personal portfolio project. Feel free to use it as a template for your
 ## 🎯 Performance
 
 - ⚡ Fast load time (no framework overhead)
-- 📦 Small file size (~100KB total)
 - 🚀 No build process required
 - ✨ Smooth 60fps animations
 - 📱 Mobile-optimized
@@ -177,4 +176,5 @@ This is a personal portfolio project. Feel free to use it as a template for your
 ---
 
 **Note**: This is a vanilla HTML/CSS/JavaScript recreation of a React portfolio. It demonstrates that modern, interactive websites can be built without frameworks while maintaining excellent performance and user experience.
+
 
